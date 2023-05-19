@@ -1,0 +1,12 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: Arial;
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+    height: 576px;
+    width: 1024px;
+    background: black;
+}
